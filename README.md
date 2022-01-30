@@ -53,7 +53,7 @@ To use the Financial Health application, clone the repository and run the financ
 
 ## Contributors
 
-Contributions by carl Frederick.
+Contributions by Carl Frederick.
 
 ---
 
